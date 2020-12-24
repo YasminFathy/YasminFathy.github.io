@@ -5,12 +5,28 @@
     <link>https://yasminfathy.github.io/</link>
       <atom:link href="https://yasminfathy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasmin Fathy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yasminfathy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yasmin Fathy</title>
       <link>https://yasminfathy.github.io/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Autoencoders for Drift Detection in Industrial Environments</title>
+      <link>https://yasminfathy.github.io/publication/yong-2020-bayesian/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/yong-2020-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Thriving Experience in Physical Working Spaces</title>
+      <link>https://yasminfathy.github.io/publication/rintel-2020-measuring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/rintel-2020-measuring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Best Practices for Publishing, Retrieving, and Using Spatial Data on the Web</title>
@@ -44,7 +60,7 @@
       <description>&lt;p&gt;&lt;strong&gt;Scholarships&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.re-work.co/events/connected-city&#34;&gt;The Connected City Summit&lt;/a&gt;, 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php&#34;&gt;Machine Learning Summer School (MLSS&#39;s 15 Kyoto)&lt;/a&gt;, 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php&#34;&gt;Machine Learning Summer School (MLSS&amp;rsquo;s 15 Kyoto)&lt;/a&gt;, 2015&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pmn.co.uk/mex/&#34;&gt;Mobile User Experience (MEX)&lt;/a&gt; Scholarship, 2015&lt;/li&gt;
 &lt;li&gt;University of Surrey PhD Studentship – Graduate School, 2015 to 2018&lt;/li&gt;
 &lt;li&gt;MEDASTAR Erasmus Mundus – MSc at the Vrije Universiteit Brussel (VUB), 2012 to 2014&lt;/li&gt;
@@ -84,31 +100,53 @@
       <guid>https://yasminfathy.github.io/activities/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technical Programme Committee&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://distributedml.org/committee/&#34;&gt;Distributed ML Workshop co-located with ACM CoNEXT&lt;/a&gt;, 2020.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www2018.thewebconf.org/call-for-papers/demos-track-cfp/&#34;&gt;Web Conference (WWW) Demo Track&lt;/a&gt;, 2018 to 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webintelligence2019.com/call-for-papers/&#34;&gt;IEEE/WIC/ACM International Conference on Web Intelligence&lt;/a&gt;, 2019 to 2020&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wiki.knoesis.org/index.php/SmartIoTWorkshopAAAI2018&#34;&gt;SmartIoT 2018 Workshop&lt;/a&gt;, co-located with AAAI Conference on Artificial Intelligence, 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://airccse.com/ijcacs/index.html&#34;&gt;The International Journal of Control, Automation, Communication and Systems (IJCACS)&lt;/a&gt;, 2016&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Reviewer&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.frontiersin.org/journals/communication&#34;&gt;Frontiers in Communications and Networks&lt;/a&gt;, 2020&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.frontiersin.org/journals/artificial-intelligence&#34;&gt;Frontiers in AI&lt;/a&gt;, 2020&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://iot-journal.weebly.com/&#34;&gt;IEEE Internet of Things Journal&lt;/a&gt;, 2017 to Present&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317&#34;&gt;IEEE Transactions on Big Data&lt;/a&gt;, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860&#34;&gt;IEEE Transactions on Sustainable Computing&lt;/a&gt;, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ieeesystemsjournal.org/&#34;&gt;IEEE Systems Journal&lt;/a&gt;, 2018 to 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://iot-journal.weebly.com/&#34;&gt;IEEE Internet of Things Journal&lt;/a&gt;, 2017 to 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeeaccess.ieee.org/&#34;&gt;IEEE Access&lt;/a&gt;, 2017 - 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/journal/jetc&#34;&gt;ACM Journal on Emerging Technologies in Computing Systems (JETC)&lt;/a&gt;, 2019&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236&#34;&gt;IEEE Internet Computing&lt;/a&gt;, 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028&#34;&gt;IEEE Transactions on Network and Service Management (TNSM)&lt;/a&gt;, 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.frontiersin.org/journals/big-data&#34;&gt;Frontiers in Big Data&lt;/a&gt;, 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ieeesystemsjournal.org/&#34;&gt;IEEE Systems Journal&lt;/a&gt;, 2018 - 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.editorialmanager.com/clus/default.aspx&#34;&gt;Cluster Computing (CLUS) - Springer&lt;/a&gt;, 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wfiot2018.iot.ieee.org/&#34;&gt;IEEE World Forum on Internet of Things&lt;/a&gt;, 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028&#34;&gt;EEE Transactions on Network and Service Management (TNSM)&lt;/a&gt;, 2019&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.igi-global.com/journal/international-journal-semantic-web-information/1092&#34;&gt;International Journal on Semantic Web and Information Systems (IJSWIS)&lt;/a&gt;, 2015 to 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ieeeaccess.ieee.org/&#34;&gt;IEEE Access&lt;/a&gt;, 2017 - 2018&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://infocom2017.ieee-infocom.org/workshop/smartcity-smart-cities-and-urban-computing&#34;&gt;IEEE INFOCOM:Smart Cities and Urban Computing workshop&lt;/a&gt;, 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.editorialmanager.com/ante/default.aspx&#34;&gt;Annals of Telecommunications - Springer&lt;/a&gt;, 2017&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://iswc2016.semanticweb.org/&#34;&gt;The 15th International Semantic Web Conference (ISWC)&lt;/a&gt;, 2016 to 2017&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wcnc2016.ieee-wcnc.org/&#34;&gt;IEEE Wireless Communications and Networking Conference (WCNC)&lt;/a&gt;, 2016&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2016.ca/&#34;&gt;The International World Wide Web Conference - Web Science Track (WWW)&lt;/a&gt;, 2015 to 2016&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cybermatics.org/SmartWorldCongress2015/SWC2015/UIC/UIC2015.htm&#34;&gt;IEEE International Conference on Ubiquitous Intelligence and Computing(UIC)&lt;/a&gt;, 2015&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ieeesmc.org/publications/transactions-on-smc-systems&#34;&gt;IEEE Transactions on Systems, Man, and Cybernetics: Systems&lt;/a&gt;, 2015&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/information-sciences/&#34;&gt;Information Sciences Journal - Elsevier, 2015&lt;/a&gt;, 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.igi-global.com/journal/international-journal-semantic-web-information/1092&#34;&gt;International Journal on Semantic Web and Information Systems (IJSWIS)&lt;/a&gt;, 2015 to 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.editorialmanager.com/clus/default.aspx&#34;&gt;Cluster Computing (CLUS) - Springer&lt;/a&gt;, 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wfiot2018.iot.ieee.org/&#34;&gt;IEEE World Forum on Internet of Things&lt;/a&gt;, 2018&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!--
+- [IEEE Internet Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236), 2019
+- [IEEE Transactions on Network and Service Management (TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), 2019
+- [Frontiers in Big Data](http://www.frontiersin.org/journals/big-data), 2018
+- [IEEE Systems Journal](http://www.ieeesystemsjournal.org/), 2018 - 2019
+- [Cluster Computing (CLUS) - Springer](http://www.editorialmanager.com/clus/default.aspx), 2018
+- [IEEE World Forum on Internet of Things](http://wfiot2018.iot.ieee.org/), 2018
+- [International Journal on Semantic Web and Information Systems (IJSWIS)](http://www.igi-global.com/journal/international-journal-semantic-web-information/1092), 2015 to 2018
+
+- [IEEE INFOCOM:Smart Cities and Urban Computing workshop](http://infocom2017.ieee-infocom.org/workshop/smartcity-smart-cities-and-urban-computing), 2017
+- [Annals of Telecommunications - Springer](http://www.editorialmanager.com/ante/default.aspx), 2017
+- [The 15th International Semantic Web Conference (ISWC)](http://iswc2016.semanticweb.org/), 2016 to 2017
+- [IEEE Wireless Communications and Networking Conference (WCNC)](http://wcnc2016.ieee-wcnc.org/), 2016
+- [The International World Wide Web Conference - Web Science Track (WWW)](http://www2016.ca/), 2015 to 2016
+- [IEEE International Conference on Ubiquitous Intelligence and Computing(UIC)](http://www.cybermatics.org/SmartWorldCongress2015/SWC2015/UIC/UIC2015.htm), 2015
+- [IEEE Transactions on Systems, Man, and Cybernetics: Systems](http://www.ieeesmc.org/publications/transactions-on-smc-systems), 2015
+- [Information Sciences Journal - Elsevier, 2015](http://www.journals.elsevier.com/information-sciences/), 2015
+--&gt;
 &lt;p&gt;&lt;strong&gt;Others&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Research mentor for new postgraduate research students, University of Surrey, 2015 to 2018&lt;/li&gt;

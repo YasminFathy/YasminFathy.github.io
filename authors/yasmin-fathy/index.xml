@@ -5,12 +5,28 @@
     <link>https://yasminfathy.github.io/authors/yasmin-fathy/</link>
       <atom:link href="https://yasminfathy.github.io/authors/yasmin-fathy/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasmin Fathy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yasminfathy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yasmin Fathy</title>
       <link>https://yasminfathy.github.io/authors/yasmin-fathy/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Autoencoders for Drift Detection in Industrial Environments</title>
+      <link>https://yasminfathy.github.io/publication/yong-2020-bayesian/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/yong-2020-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Thriving Experience in Physical Working Spaces</title>
+      <link>https://yasminfathy.github.io/publication/rintel-2020-measuring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/rintel-2020-measuring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Best Practices for Publishing, Retrieving, and Using Spatial Data on the Web</title>
