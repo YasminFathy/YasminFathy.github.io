@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  in Electrical and Electronic Engineering, University of Surrey, UK, 2018
+* M.S. in in Applied Science and Engineering (Distinction), Vrije Universiteit Brussel (VUB), Belgium, 2014
+* B.S. in Computer Science (Distinction with Honor), Helwan University, Egypt, 2009 
+\
+&nbsp;
 
-Work experience
+
+
+Professional Certificates
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Certificate in Learning and Teaching (GCLT), University of Cambridge, UK, 2022
+  * Qualified for **Fellow of the Higher Education Academy (FHEQ level 7)**
+  * Programme is aimed at: 1) Developing as an enquiring university teacher, 2) Teaching and learning strategies and techniques, and 3) Designing teaching, learning and assessment
+    
+<!--&nbsp;-->
+* Graduate Certificate in Learning and Teaching (GCLT), University of Surrey, UK, 2018
+  * Qualified for **Fellow of the Higher Education Academy (FHEQ level 6)**
+  * Programme is aimed at: 1) Exploring the learning environment, 2) Exploring theory and practice of teaching, 3) Understanding the curriculum, and 4) Designing education research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!--&nbsp;-->
+* Doctor Mentoring, University of Surrey, UK, 2018
+  * [Credential ID OPENBADGEPASSPORT-106864](https://openbadgepassport.com/app/badge/info/106864)
+  * **Research mentor**; providing coaching and mentoring, giving feedback and serves as a confidante in times of crisis to support new postgraduate and senior students.
+  * Being a mentor entails the following skills: reflection on current practice and research journey, empathy, communication, listening, guidance and support, problem solving, handling multiple responsibilities & cultural awareness
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+&nbsp;
+
+
+<!--
+
+Research Interests
+======
+* Internet of Things (IoT)
+* Data Analytics
+* Digital Twin
+* Applied Machine Learning
+
+
+
+
+
 Skills
 ======
 * Skill 1
@@ -61,4 +82,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+-->
